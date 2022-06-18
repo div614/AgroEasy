@@ -1,0 +1,18 @@
+SMAP
+RegMSc_jsp.java
+JSP
+*S JSP
+*F
++ 0 RegMSc.jsp
+RegMSc.jsp
++ 1 header.jsp
+header.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+5:50
+5#1,61:51
+6#0,99:112
+1#2,36:211
+104#0,4:246
+*E

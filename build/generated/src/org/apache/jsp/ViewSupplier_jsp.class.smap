@@ -1,0 +1,34 @@
+SMAP
+ViewSupplier_jsp.java
+JSP
+*S JSP
+*F
++ 0 ViewSupplier.jsp
+ViewSupplier.jsp
++ 1 adminhome.jsp
+adminhome.jsp
++ 2 connect.jsp
+connect.jsp
+*L
+5,4:53
+5#1,43:56
+48:99,3
+49,10:102
+59:112,3
+60,53:115
+8#0:167
+5#2,13:168
+17:12
+17,2:181
+19,5:184
+23,8:189
+9#0,43:197
+52,6:241
+57,3:247
+60,2:250,3
+62:256
+63,4:257,3
+67,3:269
+70,2:273
+71,7:275
+*E
